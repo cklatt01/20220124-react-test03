@@ -6,14 +6,12 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <div>
         <p>
           Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <P>
           uploaded by cklatt
-        </P>
-        </div>
+        </p>
+        
+        
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -24,7 +22,7 @@ function App() {
         </a>
       </header>
     </div>
-  );
+  );P
 }
 
 export default App;
