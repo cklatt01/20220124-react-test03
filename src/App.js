@@ -22,7 +22,7 @@ function App() {
         </a>
       </header>
     </div>
-  );P
+  );
 }
 
 export default App;
